@@ -1,4 +1,6 @@
 <Solution>
   <Project Path="DZ_dispatcher/DZ_dispatcher.csproj" Id="9c778e5f-4bc3-4195-93a2-7cc1788d98cc" />
+  <Project Path="Lesson_2_Thread/Lesson_2_Thread.csproj" Id="79110342-bb54-4fba-998c-9fd22fced346" />
+  <Project Path="Lesson_2_WPFThreads/Lesson_2_WPFThreads.csproj" Id="b1d8edde-e83d-4c89-b02e-0e5029f70313" />
   <Project Path="SysLessons/Lesson_1_Process.csproj" />
 </Solution>
