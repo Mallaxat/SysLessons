@@ -35,7 +35,7 @@
             
             <DataGrid.Columns>
                 <DataGridTextColumn Header="Имя" 
-                                    Binding="{Binding Name}"/>
+                                    Binding="{Binding ProcessName}"/>
                 <DataGridTextColumn Header="ЦП" 
                                     Binding="{Binding CPU,StringFormat={}{0:P1}}"/>
                 <DataGridTextColumn Header="Память" 
