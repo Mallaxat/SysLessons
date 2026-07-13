@@ -1,4 +1,5 @@
-﻿using Lesson_2DZ_dicpatcher.Model;
+﻿using DZ_dispatcher.Windows;
+using Lesson_2DZ_dicpatcher.Model;
 using Lesson_2DZ_dicpatcher.Servises;
 using System;
 using System.Collections.Generic;
@@ -8,9 +9,9 @@ using System.Diagnostics;
 using System.Runtime.CompilerServices;
 using System.Text;
 using System.Windows;
+using System.Windows.Forms;
 using System.Windows.Input;
 using System.Windows.Threading;
-using System.Windows.Forms;
 using Application = System.Windows.Application;
 
 
@@ -168,6 +169,12 @@ namespace Lesson_2DZ_dicpatcher.VM
                 pr.WaitForExit();//дождаться завершения
         }
 
+        public void OpenInfo()
+        {
+            VM_InfoW _vm = new VM_InfoW(SelectProcess.Id, Process.GetProcesses().ToList());
+            Info inf = new Info(_vm);
+            inf.ShowDialog();
+        }
     }
     
 }

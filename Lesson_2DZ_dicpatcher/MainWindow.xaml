@@ -30,7 +30,7 @@
               IsReadOnly="True"
        
               GridLinesVisibility="None"
-              FontSize="35" >
+              FontSize="35" MouseDoubleClick="tab_process_MouseDoubleClick_1" >
 
             <DataGrid.Columns>
                 <DataGridTextColumn Header="Имя" 
