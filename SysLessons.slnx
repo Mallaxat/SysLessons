@@ -1,9 +1,15 @@
 <Solution>
+  <Project Path="CustomMyLub/Lesson_6_CustomMyLub.csproj" Id="fd6f790f-1f3b-4131-9199-6985d710b495" />
   <Project Path="DZ_3_ServerClient/DZ_3_ServerClient.csproj" Id="c65e95ec-bfa1-44c3-a623-36ee4bae632c" />
   <Project Path="DZ_dispatcher/DZ_dispatcher.csproj" Id="9c778e5f-4bc3-4195-93a2-7cc1788d98cc" />
   <Project Path="Lesson_2DZ_dicpatcher/Lesson_2DZ_dicpatcher.csproj" Id="13b3b5e9-f100-4845-bd88-b4c08662606e" />
   <Project Path="Lesson_2_Thread/Lesson_2_Thread.csproj" Id="79110342-bb54-4fba-998c-9fd22fced346" />
   <Project Path="Lesson_2_WPFThreads/Lesson_2_WPFThreads.csproj" Id="b1d8edde-e83d-4c89-b02e-0e5029f70313" />
   <Project Path="Lesson_4_Matric/Lesson_4_Matric.csproj" Id="feaf1d0f-b511-4555-96a6-64e1f0867c17" />
+  <Project Path="Lesson_5_Synx/Lesson_5_Synx.csproj" Id="4d98565e-2922-4066-9538-47af1bd0c835" />
+  <Project Path="Lesson_6_CustomLibResult/Lesson_6_CustomLibResult.csproj" Id="926dc084-69b3-4359-a1eb-4ec34b6f1595" />
+  <Project Path="Lesson_6_CustomMathLib/Lesson_6_CustomMathLib.csproj" Id="79465d55-52e0-4f0d-bad9-a1013403e132" />
+  <Project Path="Lesson_7_Clock/Lesson_7_Clock.csproj" Id="30f38287-13ec-4470-8697-a018ea61e60f" />
+  <Project Path="Lesson_7_Registr/Lesson_7_Registr.csproj" Id="ee746514-4345-4f3b-8d87-19da48db4df2" />
   <Project Path="SysLessons/Lesson_1_Process.csproj" />
 </Solution>
